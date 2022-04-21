@@ -1,0 +1,12 @@
+C:\Projects\School\Test_21_4\bin\Debug\Test_21_4.exe.config
+C:\Projects\School\Test_21_4\bin\Debug\Test_21_4.exe
+C:\Projects\School\Test_21_4\bin\Debug\Test_21_4.pdb
+C:\Projects\School\Test_21_4\obj\Debug\Test_21_4.csproj.AssemblyReference.cache
+C:\Projects\School\Test_21_4\obj\Debug\Test_21_4.csproj.SuggestedBindingRedirects.cache
+C:\Projects\School\Test_21_4\obj\Debug\Test_21_4.Form1.resources
+C:\Projects\School\Test_21_4\obj\Debug\Test_21_4.Properties.Resources.resources
+C:\Projects\School\Test_21_4\obj\Debug\Test_21_4.csproj.GenerateResource.cache
+C:\Projects\School\Test_21_4\obj\Debug\Test_21_4.csproj.CoreCompileInputs.cache
+C:\Projects\School\Test_21_4\obj\Debug\Test_21_4.exe
+C:\Projects\School\Test_21_4\obj\Debug\Test_21_4.pdb
+C:\Projects\School\Test_21_4\obj\Debug\Test_21_4.Resource.resources
